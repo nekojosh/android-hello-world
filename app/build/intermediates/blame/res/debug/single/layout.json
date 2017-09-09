@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nekojosh/Documents/Android Projects/android-hello-world/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/nekojosh/Documents/Android Projects/android-hello-world/app/src/main/res/layout/activity_main.xml"
+    }
+]

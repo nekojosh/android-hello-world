@@ -1,0 +1,7 @@
+#Sat Sep 09 13:02:09 EST 2017
+base.0=/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39a71627a616158525257965876552feb0283c50
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9acb111a216dd0e9e7eb397c46ddf0b194b722f5/classes.dex
+base.1=/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9acb111a216dd0e9e7eb397c46ddf0b194b722f5
+file.0=/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39a71627a616158525257965876552feb0283c50/classes.dex

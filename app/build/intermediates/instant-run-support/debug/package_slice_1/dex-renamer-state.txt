@@ -1,0 +1,4 @@
+#Mon Aug 28 22:20:16 EST 2017
+base.0=/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+renamed.0=classes.dex
+file.0=/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex
