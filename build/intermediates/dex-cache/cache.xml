@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/nekojosh/Documents/Android Projects/android-hello-world/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="5fff98e0a71083d23c7fea9d7f36602d17dc7f60">
-        <dex dex="/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39a71627a616158525257965876552feb0283c50/classes.dex" />
+        sha1="d40b25c82b78bda735e4af18e9edbc93c53d9ad9">
+        <dex dex="/home/nekojosh/Documents/Android Projects/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_46e86240cffe01b60ac4ee84b54124fc59f215fd/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/nekojosh/Documents/Android Projects/android-hello-world/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9acb111a216dd0e9e7eb397c46ddf0b194b722f5/classes.dex" />
+        <dex dex="/home/nekojosh/Documents/Android Projects/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bad8331879df2023ee2505e965d82cbb3bd0b9bb/classes.dex" />
     </item>
 
 </items>

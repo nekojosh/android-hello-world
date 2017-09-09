@@ -1,48 +1,5 @@
 [
     {
-        "outputFile": "/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 48,
-                    "endOffset": 99
-                },
-                "from": {
-                    "file": "/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 1,
-                        "startColumn": 2,
-                        "startOffset": 14,
-                        "endColumn": 46,
-                        "endOffset": 58
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 104,
-                    "endColumn": 52,
-                    "endOffset": 152
-                },
-                "from": {
-                    "file": "/home/nekojosh/Documents/Android Projects/android-hello-world-master/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 2,
-                        "startOffset": 61,
-                        "endColumn": 50,
-                        "endOffset": 109
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/home/nekojosh/Documents/Android Projects/android-hello-world/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
@@ -50,37 +7,104 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 48,
-                    "endOffset": 99
+                    "endColumn": 58,
+                    "endOffset": 109
                 },
                 "from": {
-                    "file": "/home/nekojosh/Documents/Android Projects/android-hello-world/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 1,
-                        "startColumn": 2,
-                        "startOffset": 14,
-                        "endColumn": 46,
-                        "endOffset": 58
-                    }
+                    "file": "/home/nekojosh/Documents/Android Projects/android-hello-world/app/src/main/res/values/dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 104,
-                    "endColumn": 52,
-                    "endOffset": 152
+                    "startOffset": 114,
+                    "endColumn": 55,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "/home/nekojosh/Documents/Android Projects/android-hello-world/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 56,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "/home/nekojosh/Documents/Android Projects/android-hello-world/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endColumn": 41,
+                    "endOffset": 264
                 },
                 "from": {
                     "file": "/home/nekojosh/Documents/Android Projects/android-hello-world/app/src/main/res/values/strings.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 3,
                         "startColumn": 2,
-                        "startOffset": 61,
-                        "endColumn": 50,
-                        "endOffset": 109
+                        "startOffset": 120,
+                        "endColumn": 39,
+                        "endOffset": 157
                     }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 52,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "/home/nekojosh/Documents/Android Projects/android-hello-world/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 44,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "/home/nekojosh/Documents/Android Projects/android-hello-world/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "/home/nekojosh/Documents/Android Projects/android-hello-world/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "/home/nekojosh/Documents/Android Projects/android-hello-world/app/src/main/res/values/styles.xml"
                 }
             }
         ]
